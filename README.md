@@ -16,3 +16,5 @@
 [Instagram]: https://instagram.com/muhammadsubrata
 [Linkedin]: https://www.linkedin.com/in/bahtiarsubrata/
 
+<!-- inspired by bradgarropy github profile  -->
+
