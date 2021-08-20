@@ -1,6 +1,6 @@
 ### Hi there , I'm Tiar👋
 
-## I'am a Developer and 
+## I'am a Developer 
 
 Here are some ideas to get you started:
 
