@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'am an Electronics Engineer
 -->
 
-🏡 [website][website] **|**  
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 [Website][website]  
+📷 [Instagram][instagram]
+👔 [Linkedin][linkedin]
 
-[website]: https://tiarss.github.io/
-[instagram]: https://instagram.com/muhammadsubrata
-[linkedin]: https://www.linkedin.com/in/bahtiarsubrata/
+[Website]: https://tiarss.github.io/
+[Instagram]: https://instagram.com/muhammadsubrata
+[Linkedin]: https://www.linkedin.com/in/bahtiarsubrata/
 
