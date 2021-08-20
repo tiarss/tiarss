@@ -2,8 +2,6 @@
 
 ## I'am a Developer 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Projek Bareng
 - 🌱 I’m currently learning ReactJs, 
 - 🤔 I’m looking for help with ReactJs
