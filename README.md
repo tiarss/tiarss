@@ -12,7 +12,7 @@
 📷 [Instagram][Instagram] **|**
 👔 [Linkedin][Linkedin] 
 
-[Website]: https://tiarss.github.io/
+<!--[Website]: https://tiarss.github.io/ -->
 [Instagram]: https://instagram.com/muhammadsubrata
 [Linkedin]: https://www.linkedin.com/in/bahtiarsubrata/
 
