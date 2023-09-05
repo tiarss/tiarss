@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'am an Electronics Engineer
 
-🏡 [Website][Website]  **|**
+<!-- 🏡 [Website][Website]  **|** -->
 📷 [Instagram][Instagram] **|**
 👔 [Linkedin][Linkedin] 
 
