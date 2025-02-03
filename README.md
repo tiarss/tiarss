@@ -3,8 +3,8 @@
 ## I'am a Developer 
 
 <!-- - 🔭 I’m currently working on Projek Bareng -->
-- 🌱 I’m currently learning ReactJs, 
-- 🤔 I’m looking for help with ReactJs
+- 🌱 I’m currently learning React Native and Golang, 
+- 🤔 I’m looking for help with React Native and Golang
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'am an Electronics Engineer
 
